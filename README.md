@@ -1,3 +1,3 @@
 # proxy-server
 
-`wget https://shellscripts67633.s3.amazonaws.com/script.sh;bash ./script.sh`
+`wget https://raw.githubusercontent.com/carlosm3/proxy-server/main/script.sh;bash ./script.sh`
