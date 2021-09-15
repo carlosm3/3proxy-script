@@ -1,6 +1,6 @@
 #!/bin/bash
-apt-get update;apt-get upgrade -y;apt-get autoremove -y;apt-get autoclean -y
-apt-get install fail2ban software-properties-common -y;apt-get install build-essential libevent-dev libssl-dev -y
+apt-get update;apt-get upgrade -y;apt-get autoremove -y
+apt-get install fail2ban software-properties-common build-essential libevent-dev libssl-dev curl -y
 cd /usr/local/etc
 wget https://github.com/z3APA3A/3proxy/archive/0.8.12.tar.gz
 tar zxvf 0.8.12.tar.gz
