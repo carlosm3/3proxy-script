@@ -18,13 +18,13 @@ This script is designed to run on a Debian-based Linux system, such as Ubuntu or
 1\. Clone this repository to your local system:
 
 ```bash
-git clone https://github.com/your-username/3proxy-installation-script.git
+git clone https://github.com/carlosm3/3proxy-script.git
 ```
 
 2\. Navigate to the cloned repository directory:
 
 ```bash
-cd 3proxy-installation-script
+cd 3proxy-script
 ```
 
 3\. Run the installation script:
@@ -66,4 +66,4 @@ sudo /usr/local/etc/3proxy/scripts/rc.d/proxy.sh stop
 
 ## License
 
-This script is released under the MIT License. See the [LICENSE](https://github.com/carlosm3/proxy-server/blob/main/LICENSE) file for details.
+This script is released under the MIT License. See the [LICENSE](https://github.com/carlosm3/3proxy-script/blob/main/LICENSE) file for details.
